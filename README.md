@@ -1,4 +1,4 @@
-# - 👋 Hi, We are @SixthFactor, Your Pathway to Market Success 🌱
+#  Hi, We are @SixthFactor, Your Pathway to Market Success 🌱
 
 
 <!---
